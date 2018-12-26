@@ -1,8 +1,8 @@
-# App Weather API with React-Native Android
-![Scan Disini](https://github.com/frankzealot/weatherwidget/blob/master/qr.png)
+# Tugas Mobile 2 API with React-Native Android
+![Scan Disini] <br><br><img src="itmam.png>
 
-Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@frankzealot/weatherwidget
+Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@itmam.as/weatherwidget
 
-Tugas 2 pemrograman mobile 
-- nim  : 2015150097
-- nama : Rahman hidayat
+Tugas 2 Mata Kuliah Pemrograman Mobile 
+- nim  : 2015150105
+- nama : Itmam Assyu'by
