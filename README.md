@@ -1,5 +1,5 @@
 # Tugas Mobile 2 API with React-Native Android
-![Scan Disini] <br><br><img src="itmam.png>
+![Scan Disini] <br><br><img src="itmam.png">
 
 Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@itmam.as/weatherwidget
 
